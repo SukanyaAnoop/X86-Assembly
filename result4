@@ -1,0 +1,17 @@
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn4$ ./solution4.out
+Enter the choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+1
+Enter the celsius
+50
+The result =122
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn4$ ./solution4.out
+Enter the choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+2
+Enter the fahrenhiet
+50
+The result =10
+

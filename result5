@@ -1,0 +1,104 @@
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn5$ nasm -f elf calculator.asm
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn5$ gcc calculator.o -o calculator.out
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn5$ ./calculator.out
+CALCULATOR
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+1
+Enter the first operand
+2
+Enter the second operand
+4
+The result =6
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+2
+Enter the first operand
+5
+Enter the second operand
+3
+The result =2
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+3
+Enter the first operand
+2
+Enter the second operand
+5
+The result =10
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+4
+Enter the first operand
+6
+Enter the second operand
+3
+The result =2
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+5
+Enter the first operand
+1
+Enter the second operand
+0
+The result =0
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+5
+Enter the first operand
+1
+Enter the second operand
+1
+The result =1
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+6
+Enter the first operand
+1
+Enter the second operand
+1
+The result =1
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+6
+Enter the first operand
+1
+Enter the second operand
+0
+The result =1
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+7
+Enter the operand
+1
+The result =-2
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+5
+Enter the first operand
+1
+Enter the second operand
+1
+The result =1
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+7
+Enter the operand
+7
+The result =-8
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+8
+Enter the operand
+4
+The result =8
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+9
+Enter the operand
+5
+The result =2
+Enter the choice of your operation
+1 Addition: 2 Subtraction: 3 Multiplication: 4 Division: 5 AND: 6 OR: 7 NOT: 8 LeftShift: 9 RightShift:      		      10 Exit
+10
+
