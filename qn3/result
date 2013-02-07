@@ -1,0 +1,13 @@
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./solution3.out
+Enter the age
+35
+Eligible for voting
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./solution3.out
+Enter the age
+15
+Not Eligibile for voting
+sukanya@Sukanya-Thoshiba:~/Sukanya_works/Networksecurity/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./solution3.out
+Enter the age
+18
+Eligible for voting
+
